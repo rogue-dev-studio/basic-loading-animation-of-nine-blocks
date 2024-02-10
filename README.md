@@ -6,14 +6,14 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url] -->
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png%29)](https://youtu.be/de0j_FO4vwE)
+[![Watch the video](pev.png)](https://youtu.be/de0j_FO4vwE)
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/omeans-team/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="pev.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
@@ -24,7 +24,7 @@
     <a href="https://github.com/omeans-team/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/omeans-team/Best-README-Template">View Demo</a>
+    <a href="https://youtu.be/de0j_FO4vwE">View Demo</a>
     ·
     <a href="https://github.com/omeans-team/Best-README-Template/issues">Report Bug</a>
     ·
