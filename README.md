@@ -1,14 +1,19 @@
 # basic-loading-animation-of-nine-blocks
 
-    [![Watch the video](pev.png)](https://github.com/omeansteam/basic-loading-animation-of-nine-blocks/blob/main/view.mp4)
-
+<!-- [![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png%29)](https://youtu.be/de0j_FO4vwE)
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/omeans-team/Best-README-Template">
-    <img src="pev.png" alt="Logo">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
