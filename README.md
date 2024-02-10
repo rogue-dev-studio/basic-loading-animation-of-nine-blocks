@@ -6,6 +6,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png%29)](https://youtu.be/de0j_FO4vwE)
 
 
 <!-- PROJECT LOGO -->
