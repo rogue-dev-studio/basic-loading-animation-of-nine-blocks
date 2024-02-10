@@ -19,7 +19,7 @@
 
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Awesome loading animations!
     <br />
     <a href="https://github.com/omeans-team/basic-loading-animation-of-nine-blocks"><strong>Explore the docs »</strong></a>
     <br />
