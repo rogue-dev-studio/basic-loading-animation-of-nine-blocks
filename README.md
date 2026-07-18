@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/omeans-team/basic-loading-animation-of-nine-blocks">
+  <a href="https://github.com/rogue-dev-studio/basic-loading-animation-of-nine-blocks">
     <!-- <img src="pev.png" alt="Logo"> -->
   <h3 align="center">Basic loading animation of nine blocks</h3>
   </a>
@@ -21,14 +21,14 @@
   <p align="center">
     Awesome loading animations!
     <br />
-    <a href="https://github.com/omeans-team/basic-loading-animation-of-nine-blocks"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rogue-dev-studio/basic-loading-animation-of-nine-blocks"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://youtu.be/de0j_FO4vwE">View Demo</a>
     ·
-    <a href="https://github.com/omeans-team/basic-loading-animation-of-nine-blocks/issues">Report Bug</a>
+    <a href="https://github.com/rogue-dev-studio/basic-loading-animation-of-nine-blocks/issues">Report Bug</a>
     ·
-    <a href="https://github.com/omeans-team/basic-loading-animation-of-nine-blocks/issues">Request Feature</a>
+    <a href="https://github.com/rogue-dev-studio/basic-loading-animation-of-nine-blocks/issues">Request Feature</a>
   </p>
 </div>
 
